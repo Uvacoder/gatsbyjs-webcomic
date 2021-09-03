@@ -1,4 +1,5 @@
 # Gatsby's Webcomic Starter
+-----
 
 This is a blog boilerplate that focuses on displaying webcomics and art.
 Layout is inspired by webcomics such as [Magical Game Time](https://magicalgametime.com/) and [Dakota McFadzean](https://dakotamcfadzean.tumblr.com/).
