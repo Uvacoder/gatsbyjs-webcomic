@@ -64,8 +64,9 @@
   "homepage": "https://github.com/JLDevOps/gatsby-starter-webcomic",
   "license": "Apache",
   "scripts": {
-    "dev": "rm -rf .cache && gatsby develop",
-    "build": "rm -rf .cache && rm -rf public && gatsby build",
-    "deploy": "yarn build && gh-pages -d public"
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
   }
 }
